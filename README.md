@@ -14,7 +14,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-  <img align="right" alt="tangerino" height="150" style="border-radius:50px;" src =![tanjiro-kamado-gif](https://user-images.githubusercontent.com/104526326/165609926-eb95772a-dcc2-4ff5-a189-56623c4ca078.gif)">
+
 </div>
   
   ##
