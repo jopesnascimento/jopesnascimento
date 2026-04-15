@@ -1,7 +1,4 @@
 <!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+João+Pedro!;Junior+Python+Developer;Electrical+Engineer;Always+learning+🚀&center=true&width=500&height=50">
-</p>
 
 ---
 
@@ -29,8 +26,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jopesnascimento&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jopesnascimento&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
