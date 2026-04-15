@@ -1,31 +1,76 @@
-### 👋 Hi everbody, I’m João Pedro!
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+João+Pedro!;Junior+Python+Developer;Electrical+Engineer;Always+learning+🚀&center=true&width=500&height=50">
+</p>
 
-- 👀 I’m interested in share my learning about HTML/CSS and JS, but, I love python too!
-- 🌱 I’m currently learning HTML/CSS and JS for frontend, now, I'm working with this and I need to learning news stuffs.
-- 📫 How to reach me send a mensage here or in me professional acount: jopesouzanascimento@gmail.com
+---
 
-<div align="center">
-  <a href="https://github.com/jopesnascimento">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jopesnascimento&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+# 👋 Hi, I'm João Pedro Souza do Nascimento
 
-</div>
-  
-  ##
+🎓 Electrical Engineer transitioning into **Python Development**  
+💻 Passionate about **automation, scripting, and problem solving**  
+🌎 Open to **remote opportunities**  
+🧠 Always learning and building real-world projects  
 
-    
-<div>
-  <a href="https://instagram.com/jpnasscimento" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/njgdRUfg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jopesouzanascimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-025421163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
- 
-  
-</div>
-  
+---
+
+## 🚀 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧩 Projects
+
+🔹 **python-basics**  
+Simple Python scripts and exercises (loops, functions, logic)
+
+🔹 **automation-project**  
+Scripts to automate daily tasks and improve productivity
+
+🔹 **web-mini-project**  
+Basic HTML/CSS/JavaScript projects for practice and teaching
+
+---
+
+## 🌱 Currently Learning
+
+- Python (Curso em Vídeo)  
+- Automation scripts  
+- Next step: NumPy, SciPy, and Machine Learning  
+
+---
+
+## 🌎 About Me
+
+I’m an Electrical Engineer with a strong analytical mindset, currently transitioning into software development.  
+
+I also spent two years doing volunteer work in Peru, where I developed **discipline, adaptability, and teamwork** — skills I now bring into my journey as a developer.
+
+---
+
+## 📫 Contact
+
+📧 Email: jopesouzanascimento@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/joão-pedro-souza-do-nascimento-025421163/?locale=pt
+
+---
+
+## ⚡ Fun Fact
+
+I love solving real-world problems with code and learning something new every day 🚀
